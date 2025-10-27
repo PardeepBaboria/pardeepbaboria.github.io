@@ -21,21 +21,6 @@ data/
     └── ...
 ```
 
-## How to Use
-
-### Adding Project Images
-
-1. Place your project screenshots in the `images/` folder
-2. Update the `imageUrl` field in `projects.json` to reference your image
-3. Recommended image size: 1200x800px or 16:9 aspect ratio
-
-### Adding Project Videos
-
-1. Place your demo videos in the `videos/` folder
-2. Update the `videoUrl` field in `projects.json` to reference your video
-3. Recommended format: MP4, WebM for best browser compatibility
-4. Keep video file sizes reasonable (< 10MB) for faster loading
-
 ### Updating Projects Data
 
 Edit `projects.json` to add, remove, or modify projects. Each project should have:
@@ -52,19 +37,3 @@ Edit `projects.json` to add, remove, or modify projects. Each project should hav
     "githubLink": "https://github.com/username/repo"
 }
 ```
-
-## Tips
-
-- Use optimized images (compressed JPG/PNG or WebP format)
-- Keep video files small for better performance
-- Use descriptive filenames for easy management
-- Update links to point to actual project URLs
-- Consider using a CDN for large media files
-
-## GitHub Pages Hosting
-
-When hosting on GitHub Pages:
-- All files in this folder will be publicly accessible
-- Keep file sizes reasonable to stay within GitHub's limits
-- Consider using external hosting (like YouTube) for large videos
-- Use relative paths in your JSON file for portability
