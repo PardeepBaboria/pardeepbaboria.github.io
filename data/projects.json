@@ -1,0 +1,62 @@
+[
+    {
+        "title": "E-Commerce Platform",
+        "description": "A full-stack e-commerce solution with payment integration, inventory management, and real-time analytics.",
+        "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+        "image": "🛒",
+        "imageUrl": "./data/images/project1.jpg",
+        "videoUrl": "./data/videos/project1-demo.mp4",
+        "demoLink": "https://example.com/demo1",
+        "githubLink": "https://github.com/pardeepbaboria/project1"
+    },
+    {
+        "title": "Task Management App",
+        "description": "Collaborative task management application with real-time updates, team collaboration features, and progress tracking.",
+        "tags": ["Vue.js", "Firebase", "Tailwind CSS"],
+        "image": "✅",
+        "imageUrl": "./data/images/project2.jpg",
+        "videoUrl": "./data/videos/project2-demo.mp4",
+        "demoLink": "https://example.com/demo2",
+        "githubLink": "https://github.com/pardeepbaboria/project2"
+    },
+    {
+        "title": "Weather Dashboard",
+        "description": "Real-time weather dashboard with forecasts, interactive maps, and location-based weather alerts.",
+        "tags": ["JavaScript", "API Integration", "Chart.js"],
+        "image": "🌤️",
+        "imageUrl": "./data/images/project3.jpg",
+        "videoUrl": "./data/videos/project3-demo.mp4",
+        "demoLink": "https://example.com/demo3",
+        "githubLink": "https://github.com/pardeepbaboria/project3"
+    },
+    {
+        "title": "Social Media Analytics",
+        "description": "Analytics platform for social media metrics with data visualization and automated reporting features.",
+        "tags": ["Python", "Django", "PostgreSQL", "D3.js"],
+        "image": "📊",
+        "imageUrl": "./data/images/project4.jpg",
+        "videoUrl": "./data/videos/project4-demo.mp4",
+        "demoLink": "https://example.com/demo4",
+        "githubLink": "https://github.com/pardeepbaboria/project4"
+    },
+    {
+        "title": "Portfolio CMS",
+        "description": "Content management system for portfolio websites with drag-and-drop builder and SEO optimization.",
+        "tags": ["React", "Express", "MySQL"],
+        "image": "🎨",
+        "imageUrl": "./data/images/project5.jpg",
+        "videoUrl": "./data/videos/project5-demo.mp4",
+        "demoLink": "https://example.com/demo5",
+        "githubLink": "https://github.com/pardeepbaboria/project5"
+    },
+    {
+        "title": "Chat Application",
+        "description": "Real-time chat application with group messaging, file sharing, and end-to-end encryption.",
+        "tags": ["Socket.io", "Node.js", "React", "Redis"],
+        "image": "💬",
+        "imageUrl": "./data/images/project6.jpg",
+        "videoUrl": "./data/videos/project6-demo.mp4",
+        "demoLink": "https://example.com/demo6",
+        "githubLink": "https://github.com/pardeepbaboria/project6"
+    }
+]
